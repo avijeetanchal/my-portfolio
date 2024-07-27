@@ -1,0 +1,8 @@
+.flex-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2em 0;
+  /* background-color: aqua; */
+}

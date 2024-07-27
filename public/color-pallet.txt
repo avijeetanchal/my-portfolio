@@ -1,0 +1,4 @@
+darkest - 0d1832
+dark- 31363F
+light- 76ABAE
+lightest- EEEEEE
